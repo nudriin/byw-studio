@@ -1,0 +1,13 @@
+{
+    "name": "sheilla/nail-art",
+    "description": "Nailart website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sheilla\\NailArt\\": "app/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
